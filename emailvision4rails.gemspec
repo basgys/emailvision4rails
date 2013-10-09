@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency("rails", ">= 3.0", "<= 4.0")
 
-  s.add_dependency("emailvision", ">= 2.1.16", "< 2.2")
+  s.add_dependency("emailvision", ">= 2.1.17", "< 2.2")
   s.add_dependency("premailer", "~> 1.7.0")
   s.add_dependency("hpricot", "~> 0.8.0")
 end
