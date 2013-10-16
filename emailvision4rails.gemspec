@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
 	s.email       = "basgys@gmail.com"
   s.homepage    = "https://github.com/basgys/emailvision4rails"
 
-  s.add_dependency("emailvision", ">= 2.1.19", "< 2.2")
+  s.add_dependency("emailvision", ">= 2.1.21", "< 2.2")
   s.add_dependency("premailer", "~> 1.7.0")
   s.add_dependency("hpricot", "~> 0.8.0")
 
